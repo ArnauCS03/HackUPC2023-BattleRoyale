@@ -1,0 +1,21 @@
+Install Docker:
+
+  sudo apt-get docker docker.io
+
+
+Get the sqlillo dependencies
+
+  sudo docker pull tarasyarema/sqlillo
+
+
+Outside the files folder, execute a simulation, and generates a .json file, you can enter it into the game website:
+
+  sudo docker run -v "$(pwd)/files":/files --rm -it tarasyarema/sqlillo files/<<filename>>.lua files/>>filename>>.lua
+  
+  
+Update docker image:
+
+  sudo docker pull tarasyarema/sqlillo
+
+
+
