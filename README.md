@@ -4,3 +4,6 @@ Game webpage: https://royale.sqlillo.com/#/
 
 
 ![Screenshot from 2023-05-14 21-03-05](https://github.com/ArnauCS03/HackUPC2023-BattleRoyale/assets/95536223/63e7900f-f28d-42eb-9255-434611ede812)
+
+![image](https://github.com/ArnauCS03/HackUPC2023-BattleRoyale/assets/95536223/4bbac266-9591-4ed4-9104-ee57bf9df526)
+
