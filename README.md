@@ -1,2 +1,2 @@
 # HackUPC2023-BattleRoyale
-The creation of a bot in lua programming language, for a Battle Royale simple game. Hosted by Capchase.
+The creation of a bot in lua programming language, for a simple Battle Royale (SQLillo) game. Hosted by Capchase.
